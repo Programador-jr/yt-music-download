@@ -1,4 +1,3 @@
-```markdown
 # YouTube Music Downloader
 
 Este projeto é um script Python que permite baixar músicas e playlists do YouTube e salvá-las em pastas específicas. As músicas individuais são salvas na pasta `music-download`, enquanto as playlists são salvas na pasta `playlist-download`.
