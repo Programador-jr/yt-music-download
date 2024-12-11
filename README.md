@@ -11,7 +11,7 @@ Este projeto é um script Python que permite baixar músicas e playlists do YouT
 
 ## Requisitos
 
-- Python 3.6 ou superior
+- `Python 3.6 ou superior`
 - `yt-dlp`
 - `ffmpeg`
 - `mutagen`
