@@ -25,7 +25,6 @@ Este projeto é um script Python que permite baixar músicas e playlists do YouT
 
    ```bash
    git clone https://github.com/Programador-jr/yt-music-download.git
-   cd youtube-music-downloader
    ```
 
 2. Instale as dependências:
@@ -41,7 +40,7 @@ Este projeto é um script Python que permite baixar músicas e playlists do YouT
 1. Execute o script:
 
    ```bash
-   python youtube_music_downloader.py
+   python download.py
    ```
 
 2. Siga as instruções no menu para baixar músicas individuais ou playlists.
